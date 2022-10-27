@@ -22,3 +22,20 @@
     box-shadow: 4px 7px 17px -1px rgba(0,0,0,0.67);
 
 }
+
+h3{
+    text-align: center;
+    color: #2980b9;
+}
+
+.row{
+    margin: 0;
+}
+
+.col-12{
+    margin-bottom: 20px;
+}
+
+button{
+    width: 100%;
+}

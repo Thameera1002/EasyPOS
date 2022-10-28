@@ -3,3 +3,7 @@ loadUserDetails=()=>{
     $('.user-name').html(userDetails.name);
     $('#avatar').attr('src',userDetails.avatar);
 }
+
+setUI=(address)=>{
+    $('#container').load(address);
+}

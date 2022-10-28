@@ -1,3 +1,7 @@
-.col-12{
+.col-12,.col-8,.col-4{
     margin-bottom: 20px;
+}
+
+.container{
+    padding: 50px 0;
 }
